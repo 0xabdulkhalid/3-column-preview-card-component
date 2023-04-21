@@ -51,7 +51,7 @@
 
 - |||
   | :----- | :----- |
-  | Solution URL: | [Need to be posted ⏳](#links) |
+  | Solution URL: | [3 Column Card Component 🎯 [ SEMANTIC MARKUP - BEM - VANILLA CSS3 ]](https://www.frontendmentor.io/solutions/3-column-card-component-semantic-markup-bem-vanilla-css3-2xfRorDMiR) |
   | Live Site URL: | [https://0xabdulkhalid.github.io/3-column-preview-card-component/](https://0xabdulkhalid.github.io/3-column-preview-card-component/) |
   |||
 
